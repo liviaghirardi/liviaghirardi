@@ -6,7 +6,7 @@ Oi! Meu nome é **Lívia**, sou iniciante na área de tecnologia e estou dando m
 
 ## 🎯 Objetivo
 
-Meu objetivo é me desenvolver como profissional da área de dados, combinando conhecimentos de programação com ferramentas de análise para transformar dados em informações úteis e relevantes.
+Meu objetivo é me desenvolver como profissional da área de programação backend, combinando conhecimentos de programação com ferramentas de análise para transformar dados em informações úteis e relevantes.
 
 ## 🛠️ Tecnologias
 
