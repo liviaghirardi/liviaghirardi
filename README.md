@@ -25,7 +25,6 @@ Aqui estão algumas das tecnologias que estou aprendendo ou já conheço:
 
 - Lógica de Programação  
 - Fundamentos de Python e Java  
-- Análise de Dados com Excel e Power BI  
 
 ## 📩 Vamos nos conectar?
 
