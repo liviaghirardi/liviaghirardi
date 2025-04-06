@@ -12,10 +12,6 @@ Meu objetivo é me desenvolver como profissional da área de dados, combinando c
 
 Aqui estão algumas das tecnologias que estou aprendendo ou já conheço:
 
-### 📊 Dados e Análises  
-[![Excel](https://skillicons.dev/icons?i=excel)](https://skillicons.dev)  
-[![Power BI](https://skillicons.dev/icons?i=powerbi)](https://skillicons.dev)
-
 ### 💻 Programação  
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)  
 [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
