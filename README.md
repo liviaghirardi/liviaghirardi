@@ -21,7 +21,7 @@ Aqui estão algumas das tecnologias que estou aprendendo ou já conheço:
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)  
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 [![IntelliJ](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
-[![PyCharm](https://skillicons.dev/icons?ipycharm)](https://skillicons.dev)
+[![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev)
 ## 📚 Atualmente Estudando
 
 - Lógica de Programação  
