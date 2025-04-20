@@ -2,11 +2,11 @@
 
 ## 🚀 Sobre Mim
 
-Oi! Meu nome é **Lívia**, sou iniciante na área de tecnologia e estou dando meus primeiros passos no mundo da programação e análise de dados. Tenho muita vontade de aprender e estou construindo uma base sólida para crescer profissionalmente nesse universo que tanto me inspira.
+Oi! Meu nome é **Lívia**, sou iniciante na área de tecnologia e estou dando meus primeiros passos no mundo da programação. Tenho muita vontade de aprender e estou construindo uma base sólida para crescer profissionalmente nesse universo que tanto me inspira.
 
 ## 🎯 Objetivo
 
-Meu objetivo é me desenvolver como profissional da área de programação backend, combinando conhecimentos de programação com ferramentas de análise para transformar dados em informações úteis e relevantes.
+Meu objetivo é me desenvolver como profissional da área de programação back-end, combinando conhecimentos de programação com ferramentas de análise para transformar dados em informações úteis e relevantes.
 
 ## 🛠️ Tecnologias
 
