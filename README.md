@@ -20,7 +20,7 @@ Aqui estão algumas das tecnologias que estou aprendendo ou já conheço:
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)  
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)  
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Idea-Dark.svg
+[![IntelliJ](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
 ## 📚 Atualmente Estudando
 
 - Lógica de Programação  
