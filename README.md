@@ -20,6 +20,7 @@ Aqui estão algumas das tecnologias que estou aprendendo ou já conheço:
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)  
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)  
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![PyCharm](https://skillicons.dev/icons?i=all)((https://skillicons.dev)
 
 ## 📚 Atualmente Estudando
 
