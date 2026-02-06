@@ -14,9 +14,17 @@ Tenho perfil **comunicativo, criativo e proativo**, com experiência prática no
 ## 🎯 Objetivo
 
 Conquistar uma **oportunidade de estágio em Análise e Desenvolvimento de Sistemas**, onde eu possa aplicar meus conhecimentos acadêmicos, desenvolver habilidades técnicas na prática e crescer profissionalmente na área de tecnologia.
-## 🛠️ Tecnologias
 
-Aqui estão algumas das tecnologias que estou aprendendo ou já conheço:
+## 🛠️ Conhecimentos Técnicos
+- **Lógica de Programação e Algoritmos**
+- **Python** e **Java**
+- Noções de **desenvolvimento back-end**
+- **Excel** e **Power BI**
+- Versionamento de código com **Git e GitHub**
+
+## 🌱 Em desenvolvimento
+- Boas práticas de programação  
+- Estrutura de dados  
 
 ### 💻 Programação  
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)  
@@ -28,10 +36,13 @@ Aqui estão algumas das tecnologias que estou aprendendo ou já conheço:
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 [![IntelliJ](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
 [![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev)
-## 📚 Atualmente Estudando
 
-- Lógica de Programação  
-- Fundamentos de Python e Java  
+## 💼 Experiência Profissional
+- Auxiliar Administrativo  
+- Atuação em **logística**, organização de dados, controle de informações e apoio a processos administrativos  
+
+*(Experiência que fortaleceu organização, responsabilidade e atenção a detalhes — habilidades essenciais para a área de tecnologia)*
+
 
 ## 📩 Vamos nos conectar?
 
