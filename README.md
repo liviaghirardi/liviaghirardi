@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Lívia Ghirardi!
+# 👋 Olá, eu sou a Lívia Amaral!
 
 🎓 **Graduanda em Análise e Desenvolvimento de Sistemas (ADS) – SENAI**  
 💻 Foco em **desenvolvimento back-end**, tecnologia e soluções práticas  
